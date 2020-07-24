@@ -26,7 +26,7 @@ export default class Main extends React.Component {
                 <form onSubmit={this.handleSubmit}>
                     <input value={this.state.token} onChange={this.handleChange} placeholder="Auth Token"></input>
                     <button className="submit" disabled={this.state.running}>Get Logbook</button>
-                    <a href="https://camo.githubusercontent.com/5200c0d7d402bd0dd4dbc812eba5273ae7f4606c/68747470733a2f2f692e696d6775722e636f6d2f4c6e304f70434b2e706e67" target="_BLANK">Learn how to get your auth token</a>
+                    <a href="https://github.com/mtchdev/pf-logbook/blob/master/auth_token.md" target="_BLANK">Learn how to get your auth token</a>
                 </form>
                 <div className="logs">
                     <code>Finished { Object.keys(this.state.data).length } of { this.state.totalLength } flights</code>
