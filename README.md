@@ -1,8 +1,12 @@
-# projectFLY Logbook Exporter (STKP Format)
+# Web Interface: https://exporter.miitch.io/
+
+## projectFLY Logbook Exporter (STKP Format)
 
 Special thanks to **AndrewTech** for making the STKP formatter!  
 
 Export your **entire logbook** into a simple JSON file in less than 60 seconds which can be used to import into STKP.  
+
+If you do not know how to use the CLI, we recommend you use our web interface: [https://exporter.miitch.io/](https://exporter.miitch.io/)
 
 ### Installation
 
