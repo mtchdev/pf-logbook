@@ -85,5 +85,5 @@ async function makeRequest(url, token) {
 async function makeFile() {
     let fileId = Math.random().toString(36).substr(2, 5);
     await fs.writeFileSync(`Bookings_${fileId}.json`, JSON.stringify(logs), 'utf8');
-    console.log(`Successfully created Bookings-${fileId}.json!`);
+    console.log(`Successfully created Bookings_${fileId}.json!`);
 }
