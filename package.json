@@ -1,0 +1,24 @@
+{
+  "name": "pflogbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtchdev/pf-logbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtchdev/pf-logbook/issues"
+  },
+  "homepage": "https://github.com/mtchdev/pf-logbook#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "readline": "^1.3.0"
+  }
+}
