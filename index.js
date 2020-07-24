@@ -49,7 +49,9 @@ rl.question('authToken (find this in Inspect Element -> Application -> Local Sto
                             }
                           }
                     } catch (e) {
-                        throw new Error(e)
+                        console.log('Something wen\'t wrong (likely auth token refresh). We\'ve made the file for you anyway.');
+                        makeFile();
+                        return;
                     }
 
                     console.log(`Finished ${i + 1} of ${Objects.length}`);
