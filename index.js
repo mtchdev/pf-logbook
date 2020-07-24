@@ -24,11 +24,7 @@ rl.question('authToken (find this in Inspect Element -> Application -> Local Sto
     let fleet = [];
     
     try {
-        let res = await axios.get('https://api.projectfly.co.uk/api/v3/fleet/global/users/registrations', {
-            headers: {
-                'Authorization': 'Bearer ' + token
-            }
-        });
+        let res = await makeRequest('https://api.projectfly.co.uk/api/v3/fleet/global/users/registrations', token);
 
         if (res.data) {
             try {
