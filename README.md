@@ -8,7 +8,7 @@ Export your **entire logbook** into a simple JSON file in less than 60 seconds w
 
 you might want this: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 1. Install **Node.JS** (> v10) from: [https://nodejs.org/en/download/](https://nodejs.org/en/download/)  
-2. Open Terminal or Command Prompt and type the following:
+2. Open Terminal or Command Prompt and type the following (**MAKE SURE YOU AREN'T IN** `/System32` - If you are, type `cd ../../`):
 
 ```
 git clone https://github.com/mtchdev/pf-logbook.git
