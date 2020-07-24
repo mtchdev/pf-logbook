@@ -34,7 +34,7 @@ rl.question('authToken (find this in Inspect Element -> Application -> Local Sto
                 throw new Error(e);
             }
         } else {
-            console.log('Something went wrong. (request failed)');
+            throw new Error('fuck you');
         }
     } catch (e) {
         throw new Error(e);
