@@ -4,6 +4,7 @@ Export your **entire logbook** into a simple JSON file in less than 60 seconds.
 
 ### Installation
 
+you might want this: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 1. Install **Node.JS** (> v10) from: [https://nodejs.org/en/download/](https://nodejs.org/en/download/)  
 2. Open Terminal or Command Prompt and type the following:
 
