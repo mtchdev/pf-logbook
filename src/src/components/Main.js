@@ -134,7 +134,7 @@ export default class Main extends React.Component {
         const element = document.createElement("a");
         const file = new Blob([JSON.stringify(this.state.data)], {type: 'text/plain'});
         element.href = URL.createObjectURL(file);
-        element.download = `pf_export-${fileId}.json`;
+        element.download = `Bookings_${fileId}.json`;
         document.body.appendChild(element); // Required for this to work in FireFox
         element.click();
     }
