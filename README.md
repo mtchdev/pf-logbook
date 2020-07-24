@@ -1,6 +1,6 @@
-# projectFLY Logbook Exporter (this took 5 minutes to make)
+# projectFLY Logbook Exporter (STKP Format)
 
-Export your **entire logbook** into a simple JSON file in less than 60 seconds.  
+Export your **entire logbook** into a simple JSON file in less than 60 seconds which can be used to import into STKP.  
 
 ### Installation
 
