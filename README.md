@@ -1,5 +1,7 @@
 # projectFLY Logbook Exporter (STKP Format)
 
+Special thanks to **AndrewTech** for making the STKP formatter!  
+
 Export your **entire logbook** into a simple JSON file in less than 60 seconds which can be used to import into STKP.  
 
 ### Installation
