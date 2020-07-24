@@ -9,7 +9,8 @@ you might want this: [https://git-scm.com/downloads](https://git-scm.com/downloa
 2. Open Terminal or Command Prompt and type the following:
 
 ```
-git clone https://github.com/mtchdev/pf-logbook.git && cd pf-logbook
+git clone https://github.com/mtchdev/pf-logbook.git
+cd pf-logbook
 npm install
 ```
 
