@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mtchdev/pf-logbook#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "readline": "^1.3.0"
   }
 }
