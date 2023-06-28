@@ -1,3 +1,7 @@
+# !! PROJECTFLY IS NO LONGER AVAILABLE SO THIS PROJECT HAS BEEN ARCHIVED !! 
+
+
+
 # Web Interface: https://exporter.miitch.io/
 
 ## projectFLY Logbook Exporter (STKP Format)
